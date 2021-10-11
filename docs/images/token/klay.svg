@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ic_klay</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_klay" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="80" height="80"></rect>
+        <g>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="80" height="80"></rect>
+            <g id="64*64" transform="translate(16.000000, 16.000000)" fill="#6F6558" fill-rule="nonzero">
+                <path d="M24.8560684,23.4557265 L40.96,39.7347009 C45.0866791,35.3274791 47.3452704,29.4927848 47.2615385,23.4557265 C47.2315271,17.4396531 44.9884519,11.6450421 40.96,7.17675214 L24.8560684,23.4557265 Z" id="패스_172"></path>
+                <polygon id="패스_173" points="23.6307692 24.6810256 7.70188034 40.6099145 23.6307692 47.2615385 39.5596581 40.6099145"></polygon>
+                <polygon id="패스_174" points="23.105641 22.9305983 39.5596581 6.30153846 24.3309402 0 9.27726496 36.9340171"></polygon>
+                <path d="M-9.0449332e-07,23.4557265 C-0.00164795936,29.4255773 2.2486589,35.1763615 6.30153846,39.5596581 L22.2304274,1.05025641 L-9.0449332e-07,23.4557265 Z" id="패스_175"></path>
+            </g>
+        </g>
+    </g>
+</svg>
