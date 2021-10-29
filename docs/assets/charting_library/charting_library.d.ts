@@ -489,7 +489,7 @@ export interface ChartingLibraryWidgetOptions {
 	time_frames?: TimeFrameItem[];
 	custom_css_url?: string;
 	favorites?: Favorites;
-	save_load_adapter?: IExternalSaveLoadAdapter;
+	save_load_adapter?: any;
 	loading_screen?: LoadingScreenOptions;
 	settings_adapter?: ISettingsAdapter;
 	theme?: ThemeName;
