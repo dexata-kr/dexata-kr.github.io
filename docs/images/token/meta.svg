@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="140" viewBox="0 0 140 140">
+  <defs>
+    <filter id="합치기_2" x="15.5" y="30.5" width="109" height="85.159" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="그룹_61239" data-name="그룹 61239" transform="translate(0.294 -0.293)">
+    <rect id="사각형_17044" data-name="사각형 17044" width="140" height="140" rx="12" transform="translate(-0.294 0.293)" fill="#fe481e"/>
+    <g id="그룹_55533" data-name="그룹 55533" transform="translate(24.706 37.293)">
+      <g transform="matrix(1, 0, 0, 1, -25, -37)" filter="url(#합치기_2)">
+        <path id="합치기_2-2" data-name="합치기 2" d="M65.486,52.319V29.479c0-10.8,5.207-17.655,12.665-17.655,5.977,0,11.661,4.975,11.842,17.575.005.21.008.422.008.632V52.319c0,7.644-5.488,13.84-12.258,13.84S65.486,59.963,65.486,52.319Zm-32.713-.635V27.416A26.851,26.851,0,0,1,59.586,0C67.3,0,73.317,2.772,77.714,7.383a16.643,16.643,0,0,0-2.173-.141,19.173,19.173,0,0,0-2.008.106C65.019,7.8,57.3,16.233,57.3,27.985v23.7c0,7.994-5.491,14.475-12.263,14.475S32.773,59.678,32.773,51.684ZM0,51.684V27.416A26.853,26.853,0,0,1,26.816,0,25.8,25.8,0,0,1,38.535,2.614,26.786,26.786,0,0,0,24.529,26.741V51.684c0,7.994-5.491,14.475-12.266,14.475S0,59.678,0,51.684Z" transform="translate(25 37)" fill="#fff7f7" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
