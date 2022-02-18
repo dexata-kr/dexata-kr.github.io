@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>salt-token-symbol 3</title>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="-1.43114687e-15%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#202321" offset="0%"></stop>
+            <stop stop-color="#0E0F0E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="salt-token-symbol-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="200" height="200"></rect>
+            <g id="Group-2" transform="translate(41.000000, 56.000000)">
+                <polygon id="Rectangle" fill="#D1F52C" transform="translate(58.500000, 14.666667) scale(-1, -1) translate(-58.500000, -14.666667) " points="6.49480469e-15 1.75304216e-12 87.75 1.79175193e-12 117 29.3333333 6.49480469e-15 29.3333333"></polygon>
+                <polygon id="Rectangle" fill="#D1F52C" points="-9.74220704e-15 58.6666667 87.75 58.6666667 117 88 -9.74220704e-15 88"></polygon>
+                <g id="Group" transform="translate(14.500000, 0.000000)">
+                    <polygon id="Rectangle" fill="#FFFFFF" transform="translate(44.000000, 44.000000) rotate(135.000000) translate(-44.000000, -44.000000) " points="12.9462272 33.6880261 33.6880261 12.9462272 75.1126984 12.8873016 75.0537728 54.3119739 54.3119739 75.0537728 12.8873016 75.1126984"></polygon>
+                    <polygon id="Rectangle-Copy-3" fill="#E0E0E0" transform="translate(44.000000, 44.041667) rotate(135.000000) translate(-44.000000, -44.041667) " points="33.6585633 13.0173566 75.0832356 12.9584311 75.02431 54.3831033 54.2825111 75.1249023 54.3414367 33.70023 12.9167644 33.7591556"></polygon>
+                    <polygon id="Rectangle-Copy-4" fill="#BFBFBF" transform="translate(29.375000, 58.666667) rotate(135.000000) translate(-29.375000, -58.666667) " points="19.0335633 48.32523 39.7753622 27.5834311 39.7164367 69.0081033 18.9746378 89.7499023"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
