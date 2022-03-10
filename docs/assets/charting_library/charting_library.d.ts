@@ -464,7 +464,7 @@ export interface ChartingLibraryWidgetOptions {
 	fullscreen?: boolean;
 	height?: number;
 	library_path?: string;
-	locale: LanguageCode;
+	locale: string;
 	numeric_formatting?: NumericFormattingParams;
 	saved_data?: object;
 	saved_data_meta_info?: SavedStateMetaInfo;
