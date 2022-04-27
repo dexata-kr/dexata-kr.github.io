@@ -27,7 +27,9 @@
   <script>
     var href = window.location.href;
     var origin = window.location.origin;
-    location.replace(href.replace(origin, '/#'));
+    var targetUrl = href.replace(origin, '/#');
+    console.log("redirect : " + targetUrl);
+    location.href = targetUrl;
   </script>
 </head>
 <body>
