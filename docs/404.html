@@ -29,6 +29,7 @@
     if (path != '/') {
       path = '/#' + path;
     }
+    path = path + window.location.search;
     location.replace(path);
   </script>
 </head>
