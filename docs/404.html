@@ -25,12 +25,9 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="white" />
   <script>
-    var path = window.location.pathname;
-    if (path != '/') {
-      path = '/#' + path;
-    }
-    path = path + window.location.search;
-    location.replace(path);
+    var href = window.location.href;
+    var origin = window.location.origin;
+    location.replace(href.replace(origin, '/#'));
   </script>
 </head>
 <body>
