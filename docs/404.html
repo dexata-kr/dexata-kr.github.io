@@ -25,11 +25,9 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="white" />
   <script>
-    var href = window.location.href;
-    var origin = window.location.origin;
-    var targetUrl = href.replace(origin, '/#');
-    console.log("redirect : " + targetUrl);
-    location.href = targetUrl;
+    var pathname = window.location.pathname;
+    var queryString = window.location.search;
+    location.replace('/#' + pathname + queryString);
   </script>
 </head>
 <body>
